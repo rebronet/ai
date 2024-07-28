@@ -1,2 +1,2 @@
-# artificial intelligence
+# ai-rebro-net
 Artificial Intelligence RebroNet
