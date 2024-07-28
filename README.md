@@ -1,2 +1,2 @@
-# www-rebro-net
-Site RebroNet
+# artificial intelligence
+Artificial Intelligence RebroNet
